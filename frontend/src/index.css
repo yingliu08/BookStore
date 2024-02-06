@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: lightblue; /* Or use a specific color code like #FFB6C1 */
+}
